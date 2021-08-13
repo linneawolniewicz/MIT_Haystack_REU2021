@@ -1,0 +1,4 @@
+# Network, station, location, channel, sampling rate (Hz), number of days in stream to analyze, number of total days in current stream, 
+# minimum freqeuncy (Hz), maximum frequency (Hz), number of clusters, % of powers to put into a training set (rest goes into the test set),
+# start day (in UTC Time: aka 'YYYY-MM-DDTHH:MM:SS'), load data (1 = Yes and 0 = no it is already loaded), save the GMM (1 = yes and 0 = no)
+XH,DR10,--,LHZ,1.0,10,100,0,0.1,3,0.5,2014-11-21T00:00:00,0,0
